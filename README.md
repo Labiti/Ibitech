@@ -67,7 +67,7 @@ until finished
 
 ## Built With
 
-* [Android Studio](https://developer.android.com/studio//) - The Software we usedf to test our project
+* [Android Studio](https://developer.android.com/studio//) - The Software we used to test our project
 * [My SQL](https://www.mysql.com/) - Our Database Schemer 
 * [PHP](http://php.net/) - Programming language
 * [Java](https://www.java.com/en/download//) - Used on android to capture data from mark up language
@@ -88,7 +88,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Cinga Nyangintsimbi (Project Supervisor)
+* 3rd YEAR Project 
+* Nelson Mandela University
+* School Of ICT
+
 
