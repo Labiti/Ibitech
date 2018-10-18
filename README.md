@@ -31,7 +31,7 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 1.Open Android Studio
 
-2Click Open project 
+2.Click Open project 
 
 3.Locate Application
 
@@ -39,63 +39,48 @@ Say what the step will be
 
 5.To run the project, click on the green arrow at the top of the screen.
 
-6.Select patient togle if you are a patient if not select doctor's side 
+6.Select patient toggle if you are a patient if not select doctor's side 
 
 ```
 Give the example
 ```
+![](app/Capture.png)  ![](app/Dash.png).
 
-And repeat
+ ![](app/skin.png)   ![](app/Love.png)
+
+7.User will login ,will be welcomed by user Dashboard
+
+8.Select Functionality on the Dashboard
+
+9.Add Symptom
+10.Repeat to other function like Allergies  etc
 
 ```
 until finished
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
+11.Data that is entered is Displayed
 
-## Running the tests
 
-Explain how to run the automated tests for this system
+![](app/Love.png)
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Android Studio](https://developer.android.com/studio//) - The Software we usedf to test our project
+* [My SQL](https://www.mysql.com/) - Our Database Schemer 
+* [PHP](http://php.net/) - Programming language
+* [Java](https://www.java.com/en/download//) - Used on android to capture data from mark up language
+* [XML](https://www.xml.com/) - Used to mark up data in Android Studio
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Ayabonga Jumba**  
+* **Asavela Jubherla** 
+* **Siphumze Labiti**  
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+
 
 ## License
 
